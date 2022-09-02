@@ -1,0 +1,25 @@
+﻿{
+"app_id": "wx2180fd06b400d152",
+
+"app_secret": "fe6dfedde6b6c9770a12e6d918f75da2",
+
+"template_id": "YtNsonP2ZzsVMOsjGfGmx-inw5r6CYZ7BOWXT2E9Exw",
+
+"user": ["oQtR-51mM404Odykq3dE9nmYAKD4"],
+
+"weather_key": "a2911726c3ca450ab6238669ca4871c0",
+
+"tian_api": "60026b8d1c24f9c41ccd1d1a41945286",
+
+"region": "莱州",
+
+"birthday1": {"name": "小宝", "birthday": "1997-01-01"},
+
+"birthday2": {"name": "小林", "birthday": "r1997-01-01"},
+
+"love_date": "2021-01-01",
+
+"note_ch": "",
+
+"note_en": ""
+}
